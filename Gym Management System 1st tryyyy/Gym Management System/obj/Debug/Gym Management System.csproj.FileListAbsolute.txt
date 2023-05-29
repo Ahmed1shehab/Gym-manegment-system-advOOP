@@ -1,0 +1,33 @@
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MainForm.resources
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AddMember.resources
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.UpdateDelete.resources
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Payment.resources
+C:\Users\hagar\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Trainers.resources
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym_Management_System.AddMember.resources
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym_Management_System.MainForm.resources
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym_Management_System.Trainers.resources
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym_Management_System.UpdateDelete.resources
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym_Management_System.Payments.resources
+C:\Users\hagar\OneDrive\Desktop\Gym Management System 1st tryyyy\Gym Management System\obj\Debug\Gym_Management_System.ViewMembers.resources
